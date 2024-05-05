@@ -1,0 +1,51 @@
+[
+    {
+        "id": 89,
+        "name": "Digital ArtStyle 1 ",
+        "price": 520,
+        "image": "images/digital/1.svg"
+    },
+    {
+        "id": 90,
+        "name": "Digital ArtStyle 2",
+        "price": 289,
+        "image":"images/digital/2.svg"
+    },
+    {
+        "id": 91,
+        "name": "Digital ArtStyle 3",
+        "price": 350,
+        "image": "images/digital/3.svg"
+    }
+    ,
+    {
+        "id": 92,
+        "name": "Digital ArtStyle 4",
+        "price": 689,
+        "image": "images/digital/4.svg"
+    },
+    {
+        "id": 93,
+        "name": "Digital ArtStyle 5",
+        "price": 459,
+        "image": "images/digital/5.svg"
+    },
+    {
+        "id": 94,
+        "name": "Digital ArtStyle 6",
+        "price": 719,
+        "image": "images/digital/6.svg"
+    },
+    {
+        "id": 95,
+        "name": "Digital ArtStyle 7",
+        "price": 559,
+        "image": "images/digital/7.svg"
+    },
+    {
+        "id": 96,
+        "name": "Digital ArtStyle 8",
+        "price": 920,
+        "image": "images/digital/8.svg"
+    }
+]

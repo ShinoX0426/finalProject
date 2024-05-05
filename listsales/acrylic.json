@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Moonlight tree Paint",
+        "price": 520,
+        "image": "images/acrylic/1.svg"
+    },
+    {
+        "id": 2,
+        "name": "Tulips Paint",
+        "price": 289,
+        "image":"images/acrylic/2.svg"
+    },
+    {
+        "id": 3,
+        "name": "Bird View Paint",
+        "price": 350,
+        "image": "images/acrylic/3.svg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Cat Paint",
+        "price": 689,
+        "image": "images/acrylic/4.svg"
+    },
+    {
+        "id": 5,
+        "name": "Butterfly Paint",
+        "price": 459,
+        "image": "images/acrylic/5.svg"
+    },
+    {
+        "id": 6,
+        "name": "Galaxy Paint",
+        "price": 719,
+        "image": "images/acrylic/6.svg"
+    },
+    {
+        "id": 7,
+        "name": "Small Town Paint",
+        "price": 559,
+        "image": "images/acrylic/7.svg"
+    },
+    {
+        "id": 8,
+        "name": "Sight in Paris Paint",
+        "price": 920,
+        "image": "images/acrylic/8.svg"
+    }
+]

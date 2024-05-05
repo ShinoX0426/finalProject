@@ -1,0 +1,40 @@
+[
+    {
+        "id": 105,
+        "name": "Paris PopArt ",
+        "price": 520,
+        "image": "images/popart/1.svg"
+    },
+    {
+        "id": 106,
+        "name": "Parrot PopArt",
+        "price": 289,
+        "image":"images/popart/2.svg"
+    },
+    {
+        "id": 107,
+        "name": "NewYork PopArt",
+        "price": 350,
+        "image": "images/popart/3.svg"
+    }
+    ,
+    {
+        "id": 108,
+        "name": "Rio PopArt",
+        "price": 689,
+        "image": "images/popart/4.svg"
+    },
+    {
+        "id": 109,
+        "name": "Lovely Lips PopArt",
+        "price": 459,
+        "image": "images/popart/5.svg"
+    },
+    {
+        "id": 110,
+        "name": "Women in Retro Dress PopArt",
+        "price": 719,
+        "image": "images/popart/6.svg"
+    }
+    
+]

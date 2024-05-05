@@ -1,0 +1,51 @@
+[
+    {
+        "id": 25,
+        "name": "Kakashi Sketch",
+        "price": 520,
+        "image": "images/sketch/1.svg"
+    },
+    {
+        "id": 26,
+        "name": "Goku Sketch",
+        "price": 289,
+        "image":"images/sketch/2.svg"
+    },
+    {
+        "id": 27,
+        "name": "Ichigo Sketch",
+        "price": 350,
+        "image": "images/sketch/3.svg"
+    }
+    ,
+    {
+        "id": 28,
+        "name": "Luffy Sketch",
+        "price": 689,
+        "image": "images/sketch/4.svg"
+    },
+    {
+        "id": 29,
+        "name": "Zoro Sketch",
+        "price": 459,
+        "image": "images/sketch/5.svg"
+    },
+    {
+        "id": 30,
+        "name": "Rimuru Sketch",
+        "price": 719,
+        "image": "images/sketch/6.svg"
+    },
+    {
+        "id": 31,
+        "name": "Naruto Sketch",
+        "price": 559,
+        "image": "images/sketch/7.svg"
+    },
+    {
+        "id": 32,
+        "name": "Frieren Sketch",
+        "price": 920,
+        "image": "images/sketch/8.svg"
+    }
+]

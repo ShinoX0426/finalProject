@@ -1,0 +1,51 @@
+[
+    {
+        "id": 9,
+        "name": "Horse Pastel Paint",
+        "price": 520,
+        "image": "images/pastel/1.svg"
+    },
+    {
+        "id": 10,
+        "name": "Sunset Pastel Paint",
+        "price": 289,
+        "image":"images/pastel/2.svg"
+    },
+    {
+        "id": 11,
+        "name": "Plant pastel Paint",
+        "price": 350,
+        "image": "images/pastel/3.svg"
+    }
+    ,
+    {
+        "id": 12,
+        "name": "Lake Pastel Paint",
+        "price": 689,
+        "image": "images/pastel/4.svg"
+    },
+    {
+        "id": 13,
+        "name": "Night Sky Pastel Paint",
+        "price": 459,
+        "image": "images/pastel/5.svg"
+    },
+    {
+        "id": 14,
+        "name": "Street lights",
+        "price": 719,
+        "image": "images/pastel/6.svg"
+    },
+    {
+        "id": 15,
+        "name": "RoadTrip Pastel Paint",
+        "price": 559,
+        "image": "images/pastel/7.svg"
+    },
+    {
+        "id": 16,
+        "name": "Boat Pastel Paint",
+        "price": 920,
+        "image": "images/pastel/8.svg"
+    }
+]

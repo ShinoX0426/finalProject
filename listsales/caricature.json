@@ -1,0 +1,51 @@
+[
+    {
+        "id": 33,
+        "name": "Queen Elizabeth",
+        "price": 520,
+        "image": "images/caricature/1.svg"
+    },
+    {
+        "id": 34,
+        "name": "The Rock",
+        "price": 289,
+        "image":"images/caricature/2.svg"
+    },
+    {
+        "id": 35,
+        "name": "Lebron James",
+        "price": 350,
+        "image": "images/caricature/3.svg"
+    }
+    ,
+    {
+        "id": 36,
+        "name": "Tupac",
+        "price": 689,
+        "image": "images/caricature/4.svg"
+    },
+    {
+        "id": 37,
+        "name": "Christiano Ronaldo",
+        "price": 459,
+        "image": "images/caricature/5.svg"
+    },
+    {
+        "id": 38,
+        "name": "Christiano Ronaldo",
+        "price": 719,
+        "image": "images/caricature/6.svg"
+    },
+    {
+        "id": 39,
+        "name": "Rambo",
+        "price": 559,
+        "image": "images/caricature/7.svg"
+    },
+    {
+        "id": 40,
+        "name": "Donald Trumph",
+        "price": 920,
+        "image": "images/caricature/8.svg"
+    }
+]

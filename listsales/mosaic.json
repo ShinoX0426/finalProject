@@ -1,0 +1,40 @@
+[
+    {
+        "id": 97,
+        "name": "SunFlower mosaic ",
+        "price": 520,
+        "image": "images/mosaic/1.svg"
+    },
+    {
+        "id": 98,
+        "name": "Butterfly Mosaic ",
+        "price": 289,
+        "image":"images/mosaic/2.svg"
+    },
+    {
+        "id": 99,
+        "name": "Cat mosaic ",
+        "price": 350,
+        "image": "images/mosaic/3.svg"
+    }
+    ,
+    {
+        "id": 100,
+        "name": "Parrot Mosaic",
+        "price": 689,
+        "image": "images/mosaic/4.svg"
+    },
+    {
+        "id": 101,
+        "name": "Boat mosaic ",
+        "price": 459,
+        "image": "images/mosaic/5.svg"
+    },
+    {
+        "id": 102,
+        "name": "Fruit mosaic",
+        "price": 719,
+        "image": "images/mosaic/6.svg"
+    }
+    
+]

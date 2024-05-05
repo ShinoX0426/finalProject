@@ -1,0 +1,51 @@
+[
+    {
+        "id": 25,
+        "name": "City View",
+        "price": 520,
+        "image": "images/architectural/1.svg"
+    },
+    {
+        "id": 26,
+        "name": "Home Layout",
+        "price": 289,
+        "image":"images/architectural/2.svg"
+    },
+    {
+        "id": 27,
+        "name": "Back Alley",
+        "price": 350,
+        "image": "images/architectural/3.svg"
+    }
+    ,
+    {
+        "id": 28,
+        "name": "Home Layout 2",
+        "price": 689,
+        "image": "images/architectural/4.svg"
+    },
+    {
+        "id": 29,
+        "name": "Church",
+        "price": 459,
+        "image": "images/architectural/5.svg"
+    },
+    {
+        "id": 30,
+        "name": "Neighbourhood",
+        "price": 719,
+        "image": "images/architectural/6.svg"
+    },
+    {
+        "id": 31,
+        "name": "Street View",
+        "price": 559,
+        "image": "images/architectural/7.svg"
+    },
+    {
+        "id": 32,
+        "name": "Local Buildings",
+        "price": 920,
+        "image": "images/architectural/8.svg"
+    }
+]

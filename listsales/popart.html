@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JoJu - PopArt-Page</title>
+    <link rel="shortcut icon" href="./../images/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="style3.css">
+    <link rel="stylesheet" href="./../style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo"> 
+            <a href="#" class="header-logo">
+                <img src="./../images/headlogo.svg" alt="JOJU's Logo" width="140" height="50">
+            </a>
+        </div>
+        <ul class="menu">
+            <div class="header-search-container">
+                <input type="search" name="search" class="search-field" placeholder="Enter Art type..."> 
+                <button class="search-btn">
+                   <ion-icon name="search-outline"></ion-icon>
+               </button>
+           </div> 
+           <li><a href="./../index.html">Home</a></li>
+           <li><a href="popart.html">Arts</a></li>
+            
+            <div class="account" >
+                <input type="checkbox">
+                <button id="present" class="show-btn">Login</button>
+            </div>
+           
+        </ul>
+    </header>
+      <main>
+            <div class="box">
+              <div class="inner-box">
+                
+                <div class="forms-wrap">
+                  <form action="./../admin/dashboard.html" autocomplete="off" class="sign-in-form">
+                    <div class="logo">
+                      <img src="./../images/headlogo.svg" alt="JoJu-ArtShop" />
+                      <h4>JoJu-ArtShop</h4>
+                      <ion-icon class="close-btn" name="close-circle"></ion-icon>
+                    </div>
+        
+                    <div class="heading">
+                      <h2>Welcome Back</h2>
+                      <h6>Not registred yet?</h6>
+                      <a href="#" class="toggle">Sign up</a>
+                    </div>
+        
+                    <div class="actual-form">
+                      <div class="input-wrap">
+                        <input
+                          type="text"
+                          minlength="4"
+                          class="input-field"
+                          autocomplete="off"
+                          required
+                        />
+                        <label>Username</label>
+                      </div>
+        
+                      <div class="input-wrap">
+                        <input
+                          type="password"
+                          minlength="4"
+                          class="input-field"
+                          autocomplete="off"
+                          required
+                        />
+                        <label>Password</label>
+                      </div>
+        
+                      <input type="submit" value="Sign In" class="sign-btn" />
+        
+                      <p class="text">
+                        Forgotten your password or you login datails?
+                        <a href="#">Get help</a> signing in
+                      </p>
+                    </div>
+                  </form>
+        
+                  <form action="index.html" autocomplete="off" class="sign-up-form" >
+                    <div class="logo">
+                      <img src="./../images/headlogo.svg" alt="JoJu-ArtShop" />
+                      <h4>JoJu-ArtShop</h4>
+                      
+                    </div>
+        
+                    <div class="heading">
+                      <h2>Get Started</h2>
+                      <h6>Already have an account?</h6>
+                      <a href="#" class="toggle">Sign in</a>
+                    </div>
+        
+                    <div class="actual-form">
+                      <div class="input-wrap">
+                        <input
+                          type="text"
+                          minlength="4"
+                          class="input-field"
+                          autocomplete="off"
+                          required
+                        />
+                        <label>Name</label>
+                      </div>
+        
+                      <div class="input-wrap">
+                        <input
+                          type="email"
+                          class="input-field"
+                          autocomplete="off"
+                          required
+                        />
+                        <label>Email Address</label>
+                      </div>
+        
+                      <div class="input-wrap">
+                        <input
+                          type="password"
+                          minlength="4"
+                          class="input-field"
+                          autocomplete="off"
+                          required
+                        />
+                        <label>Password</label>
+                      </div>
+        
+                      <input type="submit" value="Sign Up" class="sign-btn" />
+        
+                      <p class="text">
+                        By signing up, I agree to the
+                        <a href="#">Terms of Services</a> and
+                        <a href="#">Privacy Policy</a>
+                      </p>
+                    </div>
+                  </form>
+                </div>
+        
+                <div class="carousel">
+           
+                  <div class="images-wrapper">
+                    <img src="./../images/carousel1.svg" class="image img-1 show" />
+                    <img src="./../images/carousel2.svg" class="image img-2"  />
+                    <img src="./../images/carousel3.svg" class="image img-3"  />
+                  </div>
+                  <div class="text-slider">
+                    <div class="text-wrap">
+                      <div class="text-group">
+                        <h2>Easy Choice for art</h2>
+                        <h2>Commision as you like</h2>
+                        <h2>Daily Updates</h2>
+                      </div>
+                    </div>
+          
+                    <div class="bullets">
+                      <span  class="active" data-value="1"></span>
+                      <span  data-value="2"></span>
+                      <span  data-value="3"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+      </main>
+    <div class="body">
+        <nav>
+            <ul>
+                <li><a href="#">Drawing Art
+                    <ul class="submenu">
+                        <li><a href="cartoon.html">Cartoon</a></li>
+                        <li><a href="sketch.html">Sketch</a></li>
+                        <li><a href="architectural.html">Architectural</a></li>
+                        <li><a href="caricature.html">Caricature</a></li>
+                    </ul>
+                </a></li>
+                <li><a href="#">Painting Art
+                    <ul class="submenu">
+                        <li><a href="acrylic.html">Acrylic</a></li>
+                        <li><a href="pastel.html">Pastel</a></li>
+                        <li><a href="watercolor.html">Watercolor</a></li>
+                        <li><a href="abstract.html">Abstract</a></li>
+                    </ul>
+                </a></li>
+                <li><a href="#">Handicraft Art
+                    <ul class="submenu">
+                        <li><a href="crochet.html">crochet</a></li>
+                        <li><a href="carving.html">carving</a></li>
+                        <li><a href="papercraft.html">Papercraft</a></li>
+                        <li><a href="pottery.html">Pottery</a></li>
+                    </ul>
+                </a></li>
+                <li><a href="#">Collage Art
+                    <ul class="submenu">
+                        <li><a href="digital.html">Digital</a></li>
+                        <li><a href="mosaic.html">Mosaic</a></li>
+                        <li><a href="popart.html">PopArt</a></li>
+                        <li><a href="photomontage.html">Photomontage</a></li>
+                    </ul>
+                </a></li>
+
+            </ul>
+        </nav>
+    </div>
+
+
+    <div class="case">
+        <header-bot>
+            <h3>Art Collections / PopArt</h3>
+            <div class="iconCart">
+                <img src="images/icon.png">
+                <div class="totalQuantity">0</div>
+            </div>
+        </header-bot>
+
+        <div class="listProduct">
+
+            <div class="item">
+                <img src="" alt="">
+                <h3>CoPilot / Black / Automatic</h3>
+                <div class="price">550.php</div>
+                <button>Add To Cart</button>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="cart">
+        <h2>
+            Art Checklist
+        </h2>
+
+        <div class="listCart">
+
+
+            <div class="item">
+                <img src="">
+                <div class="content">
+                    <div class="name">Product</div>
+                    <div class="price">550.php / 1 product</div>
+                </div>
+                <div class="quantity">
+                    <button>-</button>
+                    <span class="value">3</span>
+                    <button>+</button>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="buttons">
+            <div class="close">
+                CLOSE
+            </div>
+            <div class="checkout">
+                <a href="checkout.html">CHECKOUT</a>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="popart.js"></script>
+
+    
+    <!-- icon plug in -->
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+</html>

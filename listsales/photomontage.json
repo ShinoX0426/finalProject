@@ -1,0 +1,45 @@
+[
+    {
+        "id": 105,
+        "name": "Photo ArtStyle 1  ",
+        "price": 520,
+        "image": "images/photomontage/1.svg"
+    },
+    {
+        "id": 106,
+        "name": "Photo ArtStyle 2",
+        "price": 289,
+        "image":"images/photomontage/2.svg"
+    },
+    {
+        "id": 107,
+        "name": "Photo ArtStyle 3 ",
+        "price": 350,
+        "image": "images/photomontage/3.svg"
+    }
+    ,
+    {
+        "id": 108,
+        "name": "Photo ArtStyle 4",
+        "price": 689,
+        "image": "images/photomontage/4.svg"
+    },
+    {
+        "id": 109,
+        "name": "Photo ArtStyle 5",
+        "price": 459,
+        "image": "images/photomontage/5.svg"
+    },
+    {
+        "id": 110,
+        "name": "Photo ArtStyle 6",
+        "price": 719,
+        "image": "images/photomontage/6.svg"
+    },
+    {
+        "id": 111,
+        "name": "Photo ArtStyle 7",
+        "price": 559,
+        "image": "images/photomontage/7.svg"
+    }
+]
